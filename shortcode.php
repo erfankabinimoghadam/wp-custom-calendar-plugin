@@ -79,9 +79,6 @@ add_shortcode('plugin_calendar', function($atts) {
     <section class="section">
         <div class="container">
             <div class="row">
-                <!-- Left vertical line placeholder -->
-                <div class="v-line-left-light"></div>
-
                 <div class="col-12 px-4 pt-4 px-md-5 pt-md-5">
                     <div class="row p-3 p-md-5 justify-content-start">
                         <!-- Calendar heading -->
@@ -108,9 +105,6 @@ add_shortcode('plugin_calendar', function($atts) {
                         </div>
                     </div>
                 </div>
-
-                <!-- Right vertical line placeholder -->
-                <div class="v-line-right-light"></div>
             </div>
         </div>
     </section>
