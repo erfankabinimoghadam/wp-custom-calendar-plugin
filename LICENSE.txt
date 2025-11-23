@@ -1,0 +1,15 @@
+Proprietary License
+
+Copyright (c) 2025 Erfan Kabini Moghadam. All rights reserved.
+
+This software and its source code are the exclusive property of Erfan Kabini Moghadam and are protected by copyright law and other applicable laws.
+
+You are **not** permitted to:
+
+1. Use this software in any form.
+2. Copy, modify, or create derivative works based on this software.
+3. Distribute, share, or publicly display this software.
+
+Any unauthorized use of this software is strictly prohibited and may result in legal action.
+
+For inquiries or licensing requests, contact erfan.moqadam26@gmail.com
